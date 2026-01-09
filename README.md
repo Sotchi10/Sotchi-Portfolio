@@ -19,11 +19,8 @@ I enjoy:
 
 **Technical Skills:**
 - **Frontend:** HTML, CSS, Tailwind CSS, JavaScript
-- **Backend:** (Learning Node.js, Express, Database concepts)
-- **Tools:** Git, GitHub, VS Code, Chrome DevTools
 
 **Soft Skills:**
-- Problem-solving
 - Teamwork & Collaboration
 - Communication
 - Continuous Learning
@@ -35,7 +32,7 @@ I enjoy:
 Here are a few highlights of my work:
 
 1. **Portfolio Website** – Showcases my skills, projects, and contact information  
-   [View Live](#) | [GitHub](#)
+   [View Live](#) | [GitHub](https://github.com/Sotchi10/Sotchi-Developer-in-Progress.git)
 
 2. **Store Management System (C)** – My first coding project, designed to manage inventory and sales
 
@@ -49,9 +46,9 @@ Here are a few highlights of my work:
 
 I’m always happy to connect! You can reach me via:
 
-- **Email:** youremail@example.com  
-- **LinkedIn:** [linkedin.com/in/yourprofile](#)  
-- **GitHub:** [github.com/yourusername](#)
+- **Email:** sovanpisothyan@gmail.com  
+- **LinkedIn:** [linkedin.com/in/yourprofile](linkedin.com/in/sovanpisoth-yan-679a233a2/)  
+- **GitHub:** [github.com/Sotchi10](https://github.com/Sotchi10)
 
 Or, visit my **portfolio website** and use the contact form to send a message directly.
 
@@ -66,11 +63,6 @@ I’m currently focused on:
 
 ---
 
-## Fun Fact
-
-I started programming with **C in university**, and now I’m expanding my skills into web development, exploring frontend and backend technologies, and learning best practices for building scalable applications.
-
----
 
 ### Thank you for visiting! 🙏
 
